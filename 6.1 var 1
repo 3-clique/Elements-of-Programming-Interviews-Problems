@@ -1,0 +1,2 @@
+from enum import Enum
+Elements = Enum('Elements', 'ant bee cat dog')
